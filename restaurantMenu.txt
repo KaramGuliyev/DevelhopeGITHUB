@@ -1,1 +1,14 @@
-Shish kebab Kebab and Coca Cola - Karam Guliyev
+--Restaurant menu---
+
+---Dishes---
+
+Dish 1 - Karam Guliyev
+Dish 2 - Adil Sadigov
+Dish 3 - Ahmad Alsmaeil
+
+
+---Drinks---
+
+Drink 1 - Karam Guliyev
+Drink 2 - Adil Sadigov
+Drink 3 - Ahmad Alsmaeil
