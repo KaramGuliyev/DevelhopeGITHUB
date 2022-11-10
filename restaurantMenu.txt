@@ -3,12 +3,12 @@
 ---Dishes---
 
 Dish 1 - Karam Guliyev
-Dish 2 - Adil Sadigov
+Country Fried Steak
 Dish 3 - Ahmad Alsmaeil
 
 
 ---Drinks---
 
 Drink 1 - Karam Guliyev
-Drink 2 - Adil Sadigov
+Dr Pepper
 Drink 3 - Ahmad Alsmaeil
