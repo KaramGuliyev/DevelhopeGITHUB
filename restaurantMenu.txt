@@ -2,13 +2,14 @@
 
 ---Dishes---
 
-Dish 1 - Karam Guliyev
-Country Fried Steak
-Dish 3 - cornish pasty
+Shish kebab Kebab  - Karam Guliyev
+Country Fried Steak - Adil Sadigov
+Dish 3 - Ahmad Alsmaeil
 
 
 ---Drinks---
 
-Drink 1 - Karam Guliyev
-Dr Pepper
-Drink 3 - cider
+Coca Cola - Karam Guliyev 
+Dr.Pepper - Adil Sadigov
+Drink 3 - Ahmad Alsmaeil
+
