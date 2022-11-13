@@ -2,14 +2,14 @@
 
 ---Dishes---
 
-Shish kebab Kebab
-Dish 2 - Adil Sadigov
+Shish kebab Kebab  - Karam Guliyev
+Country Fried Steak - Adil Sadigov
 Dish 3 - Ahmad Alsmaeil
 
 
 ---Drinks---
 
-Coca Cola
-Drink 2 - Adil Sadigov
+Coca Cola - Karam Guliyev 
+Dr.Pepper - Adil Sadigov
 Drink 3 - Ahmad Alsmaeil
 
